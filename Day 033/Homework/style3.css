@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.div1 {
+    width: 100px;
+    height: 100px;
+    background-color: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center; /* ამცენტრებს შიდა div-ს */
+}
+
+.div2 {
+    width: 100px;
+    height: 100px;
+    background-color: teal;
+}

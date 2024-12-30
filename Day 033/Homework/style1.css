@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(111, 106, 106);
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    margin: 10;
+    padding: 15px;
+    background-color: darkblue;
+    margin: 40px 50px 55px;
+    border-top: 5px solid rgb(23, 174, 23);
+    border-right: 5px solid purple;
+    border-left: 5px solid darkgrey;
+    border-bottom: 5px solid fuchsia;
+}
